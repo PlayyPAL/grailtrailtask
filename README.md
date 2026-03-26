@@ -1,2 +1,3 @@
-# grailtrailtask
-One of my first beginner projects in Day 3 of 100 Days of Code. See if you can make it to the end of this adventure game.
+# Grail Trail
+A text-based adventure game built with Python.
+This was my first Python project from 100 Days of Code.
